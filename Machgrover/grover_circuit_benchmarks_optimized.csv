@@ -1,0 +1,2 @@
+scenario,n_search_qubits,oracle_total_qubits,grover_iterations,initial_depth,initial_ops_sum,depth_level_0,ops_sum_level_0,depth_level_3,ops_sum_level_3,num_qubits_final
+Kịch bản (4s+2a),4,6,3,40,107,349,515,253,317,6

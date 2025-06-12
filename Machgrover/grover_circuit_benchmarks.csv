@@ -1,0 +1,2 @@
+scenario,n_search_qubits,oracle_total_qubits,grover_iterations,transpiled_depth,transpiled_num_qubits,initial_grover_depth,initial_grover_ops,transpiled_grover_ops
+Kịch bản (4s+2a),4,6,3,253,6,40,"{'x': 48, 'h': 34, 'barrier': 13, 'mcx_recursive': 6, 'z': 3, 'mcx': 3}","{'cx': 108, 'u2': 72, 'cu1': 54, 'u1': 36, 'h': 16, 'barrier': 13, 'x': 12, 'u3': 3, 'mcx': 3}"
